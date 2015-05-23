@@ -1,1 +1,1 @@
-# pthw
+# Python the hard way exercises
